@@ -1,0 +1,17 @@
+.home-content {
+    padding: 20px;
+    border: 1px solid #ccc; /* Dodaj boju ivice po želji */
+    border-radius: 5px; /* Zaobljeni ivici */
+    background-color: #f9f9f9; /* Boja pozadine */
+  }
+  
+  .home-content h1 {
+    margin-top: 0; /* Uklanja podrazumevani margin od h1 */
+    color: #333; /* Boja teksta za naslov */
+  }
+  
+  .home-content p {
+    margin-top: 10px; /* Dodaje malo prostora iznad paragrafa */
+    line-height: 1.6; /* Povećava razmak između linija teksta */
+    color: #666; /* Boja teksta za paragrafe */
+  }
